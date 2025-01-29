@@ -1,4 +1,5 @@
-🌟 Robert Wood 🌟
+**🌟 Robert Wood 🌟**
+
 🚀 Senior Front-End Developer | Technical Product Owner | Mentor
 
 Hi there! I'm Rob(ert), a seasoned developer passionate about crafting seamless digital experiences and optimizing e-commerce platforms. With over two decades of experience, I've led teams, optimized websites for lightning-fast performance, and collaborated with senior stakeholders to deliver high-quality solutions that align with business goals.
