@@ -20,7 +20,9 @@ Graphic design and image optimisation
 I endeavour to stay up-to-date with the latest trends and love sharing my knowledge with teams and stakeholders. Whether it's enhancing SEO, improving UX, or making front-end magic happen, I'm all in.  
   
 📈 Fun Fact:  
-`...`
+I have an ever-growing collection of Stormtroopers (including my own bucket [helmet] from the original moulds). I may have dropped stormtrooper ascii art and quotes into codebases in the past.
+
+[//]: # ("Look, sir! Droids!" ~ Davin Felth)
 
 **💬 Let's Connect:**  
 [LinkedIn](https://www.linkedin.com/in/robwood/)  
