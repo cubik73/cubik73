@@ -1,7 +1,8 @@
 **🌟 Robert Wood 🌟**  
 🚀 Senior Front-End Developer | Technical Product Owner | Mentor  
   
-Hi there! I'm Rob(ert), a seasoned developer passionate about crafting seamless digital experiences and optimizing e-commerce platforms. With over two decades of experience, I've led teams, optimized websites for lightning-fast performance, and collaborated with senior stakeholders to deliver high-quality solutions that align with business goals.  
+Hi there! I'm Rob(ert), a seasoned developer passionate about crafting accessible, seamless digital experiences and optimising e-commerce platforms. 
+With over two decades of experience, I've led teams, optimised websites for lightning-fast performance, and collaborated with senior stakeholders to deliver high-quality solutions that align with business goals.  
   
 **🔧 Tech Stack:**  
 **Front-End**: HTML, CSS/Sass, JavaScript, React, Next.js, Typescript  
@@ -17,7 +18,7 @@ Authoring Admin and User guide/documentation
 Graphic design and image optimisation  
 
 **📚 Always Learning:**  
-I endeavour to stay up-to-date with the latest trends and love sharing my knowledge with teams and stakeholders. Whether it's enhancing SEO, improving UX, or making front-end magic happen, I'm all in.  
+I endeavour to stay up-to-date with the latest trends and love sharing my knowledge with teams and stakeholders. Whether it's enhancing accessibility and usability, improving SEO, or making front-end magic happen, I'm all in.  
   
 **📈 Fun Fact:**  
 I have an ever-growing collection of Stormtroopers (including my own bucket [helmet] from the original moulds). I may have dropped stormtrooper ascii art and quotes into codebases in the past.
